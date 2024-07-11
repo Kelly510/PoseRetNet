@@ -1,0 +1,7 @@
+checkpoint
+data
+log
+output
+__pycache__
+.history
+*.mp4
