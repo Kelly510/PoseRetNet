@@ -2,9 +2,7 @@
 
 This is the official implementation of paper 3D Human Pose Estimation via Non-Causal Retentive Networks which has been accepted to ECCV 2024. 
 
-<video width="1080" height="360" controls>
-    <source src="assets\demo_video.mp4" type="video/mp4">
-</video>
+![demo](assets/demo.gif)
 
 
 ## Dependencies
@@ -63,7 +61,7 @@ python render.py -d h36m -k cpn_ft_h36m_dbb --model retnet --joint-related --unc
 
 The following is an example of visualization.
 
-![demo](assets/S9_Photo.gif)
+![demo](assets/demo_h36m.gif)
 
 ## Training
 
