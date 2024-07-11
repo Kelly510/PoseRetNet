@@ -52,7 +52,7 @@ python run.py -d h36m -k cpn_ft_h36m_dbb --model retnet --joint-related --uncaus
 
 ## Visualization
 
-Run the following command to render the visualization result.
+Run the following command to render the visualization result of the Human3.6M dataset.
 
 ```bash
 # Render the results predicted by the PoseRetNet on the CPN-detected 2D keypoints of the Human3.6M dataset
@@ -78,7 +78,7 @@ python run_3dhp.py -d mpii3d --model retnet --joint-related --uncausal --chunk-s
 python run_3dhp.py -d mpii3d_univ --model retnet --joint-related --uncausal --chunk-size 9 -f 600 -s 600 -lr 1e-4 --lr-decay 0.98 --random-shift -b 4 -l log/run -gpu 0,1
 ```
 
-# Acknowledgement
+## Acknowledgement
 
 The code is constructed based on the following repos. We thank the authors for releasing them.
 
