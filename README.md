@@ -1,6 +1,6 @@
 # 3D Human Pose Estimation via Non-Causal Retentive Networks
 
-This is the official implementation of paper 3D Human Pose Estimation via Non-Causal Retentive Networks which has been accepted to ECCV 2024. 
+This is the official implementation of paper [3D Human Pose Estimation via Non-Causal Retentive Networks](https://link.springer.com/chapter/10.1007/978-3-031-73414-4_7) which has been accepted to ECCV 2024. 
 
 ![demo](assets/demo.gif)
 
